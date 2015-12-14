@@ -1,0 +1,52 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 192
+Content-Type: application/json
+Date: Wed, 05 Aug 2015 17:16:19 GMT
+Server: Mashape/5.0.6
+X-Ratelimit-Detect-Limit: 1000
+X-Ratelimit-Detect-Remaining: 999
+X-Ratelimit-Recognize-Limit: 1000
+X-Ratelimit-Recognize-Remaining: 999
+
+{
+  "album": "red_zone",
+  "msg": "Please put this in a safe place and remember it, you'll need it!",
+  "albumkey": "b8ae226f1a0a4673603f6a0a860bbdc699f0c5c481d9bb39e63687e65d576a47"
+}
+
+
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json
+Date: Wed, 05 Aug 2015 17:17:11 GMT
+Server: Mashape/5.0.6
+Transfer-Encoding: chunked
+X-Ratelimit-Detect-Limit: 1000
+X-Ratelimit-Detect-Remaining: 998
+X-Ratelimit-Recognize-Limit: 1000
+X-Ratelimit-Recognize-Remaining: 998
+
+{
+  "album": "green_zone",
+  "msg": "Please put this in a safe place and remember it, you'll need it!",
+  "albumkey": "af57f830bfc4df454bf9948656b3ebcbfb0bef629d6b14377edffd892f05f497"
+}
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 193
+Content-Type: application/json
+Date: Wed, 05 Aug 2015 17:26:19 GMT
+Server: Mashape/5.0.6
+X-Ratelimit-Detect-Limit: 1000
+X-Ratelimit-Detect-Remaining: 997
+X-Ratelimit-Recognize-Limit: 1000
+X-Ratelimit-Recognize-Remaining: 997
+
+{
+  "album": "face_zone",
+  "msg": "Please put this in a safe place and remember it, you'll need it!",
+  "albumkey": "35d1edb9a112db0a34f7d0edab9194b2959a764c7c6c3a62c1f8d1729f326815"
+}
